@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Test artifacts
+test_failure_screenshot.png
+
+# Docker volumes and data
+volumes/
+
+# IDE and editor directories
+.vscode/
+.idea/

@@ -1,0 +1,22 @@
+# --- Core LangChain & RAG Components ---
+langchain
+langchain-openai
+langchain-milvus
+langchain-community
+python-dotenv
+pyyaml
+pymilvus
+tiktoken
+duckduckgo-search
+
+# --- API Server ---
+fastapi
+uvicorn
+pydantic
+langserve[all]
+
+# --- Testing ---
+pytest
+pytest-asyncio
+playwright
+requests
